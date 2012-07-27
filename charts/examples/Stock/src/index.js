@@ -41,7 +41,7 @@ Ext.setup({
 
     new Ext.chart.Panel({
         id: 'chartCmp',
-        title: 'Stock Example',
+        title: 'VectorSTARDB Demo',
         fullscreen: true,
         dockedItems: {
             xtype: 'button',
